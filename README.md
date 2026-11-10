@@ -1,4 +1,4 @@
-# AI Big Data 实时风控平台
+# AI 实时风控平台
 
 一个以 Python 和 AI Agent 为基础的大数据实时风控学习项目。项目目标架构包含 Kafka、Spark / Flink、风控规则与 AI 模型、Redis / MySQL / ClickHouse、FastAPI、Vue 3 和 AI Agent。
 
